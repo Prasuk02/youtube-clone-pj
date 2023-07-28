@@ -1,0 +1,4 @@
+/*Scrollbar not visible as track background collor not given, by-default transparent*/
+.commentBox::-webkit-scrollbar{
+    width: 8px;
+}

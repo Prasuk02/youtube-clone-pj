@@ -1,0 +1,5 @@
+.categoryBox:hover{
+    border: 1px solid #eee;
+    border-radius: 7px;
+    background-color: #f0f0f0;
+}

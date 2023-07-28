@@ -1,0 +1,37 @@
+.input .MuiOutlinedInput-root{
+    border-radius: 50px;
+ }
+
+button{
+    background-color: transparent;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    padding: 8px 9px;
+}
+button:hover{
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    border: 1px solid #eee;
+    padding: 8px 9px;
+}
+
+.profile{
+    background-color: transparent;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    padding: 0px 8px;
+}
+
+.menuIcon{
+    background-color: transparent;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    padding: 5px 8px;
+}
+
+.menuIcon:hover{
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    border: 1px solid #eee;
+    padding: 5px 8px;
+}
